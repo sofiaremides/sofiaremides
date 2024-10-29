@@ -8,7 +8,7 @@
 
 - 🌱 Estou aprendendo **JavaScript**
 
-- 📫 Como entrar em contato **comp.sofiaremides@gmail.com**
+- 📫 Como entrar em contato **sofia.remides@gmail.com**
 
 
 <h4 align="left">Conecte-se comigo:</h4>
