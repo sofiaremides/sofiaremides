@@ -6,7 +6,7 @@
 
 
 
-- 🌱 Estou aprendendo **JavaScript**
+- 🌱 Estou aprendendo **Análise Exploratória de Dados**
 
 - 📫 Como entrar em contato **sofia.remides@gmail.com**
 
